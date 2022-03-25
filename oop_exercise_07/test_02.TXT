@@ -1,0 +1,4 @@
+Create 1
+Add S 1 1 2 1 2 2 2 1
+Save 2
+Exit

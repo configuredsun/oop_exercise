@@ -1,0 +1,6 @@
+Create 1.bin 
+Add S 1 1 2 1 2 2 2 1 Add R 0 0 3 0 3 4 0 4
+Print
+Undo
+Print
+Exit

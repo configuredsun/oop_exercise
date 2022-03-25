@@ -1,0 +1,7 @@
+add 1 1 2 1 2 2 1 2
+print 0
+del 0
+del 0
+Invalid index
+q
+exit

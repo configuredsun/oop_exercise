@@ -1,0 +1,29 @@
+Входные данные:
+1000,00 
+500,00
+2
+
+
+Выводимые данные:
+First summ:
+1000,00
+Second summ:
+500,00
+Addition:
+1500,00
+Subtraction:
+500,00
+Division by second summ:
+2
+Division by number:
+500,00
+Multiplication:
+2000,00
+<: false
+>: true
+<=: false
+>=: true
+==: false
+!=: true
+One hundred rub:
+100,00

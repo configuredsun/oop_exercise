@@ -1,0 +1,5 @@
+del 0
+push s 1 1 1 1 push s 2 2 2 2 push s 3 3 3 3 push s 4 4 4 4
+del 2
+print
+q

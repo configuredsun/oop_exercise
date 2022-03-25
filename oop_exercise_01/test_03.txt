@@ -1,0 +1,7 @@
+Входные данные:
+112,12
+123,10
+1
+
+Выходные данные:
+First summ less than second summ

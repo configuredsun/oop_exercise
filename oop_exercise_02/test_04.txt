@@ -1,0 +1,9 @@
+Входные данные:
+123,45
+56,78
+0
+
+Выходные данные:
+Cannot be divided by zero
+One hundred rub:
+100,00

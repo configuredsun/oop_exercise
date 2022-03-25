@@ -1,0 +1,30 @@
+Входные данные:
+120.40
+34.12
+3  
+
+Выводимые данные:
+
+
+First summ:
+120,40
+Second summ:
+34,12
+Addition:
+154,52
+Subtraction:
+86,28
+Division by second summ:
+3.52872
+Division by number:
+40,13
+Multiplication:
+361,19
+<: false
+>: true
+<=: false
+>=: true
+==: false
+!=: true
+One hundred rub:
+100,00
